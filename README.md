@@ -5,12 +5,20 @@ Astronomer's Visual Pack: Updated and Repackaged is a port of the E.V.E. 7-4 vis
 <h1>How to Install</h1> <br>
 
 Simply extract the GameData from the .zip into your Kerbal Space Program installation, or install the mod using CKAN.
+KSPRC textures are installed by downloading the latest release of KSPRC, opening the .zip, and extracting the folder "KSPRC" into your GameData. After, remove the "Atmosphere" and "CityLights" inside the KSPRC folder.
 
 <h1>Features</h1>
 <ul>
-  <li>Coffee</li>
-  <li>Tea</li>
-  <li>Milk</li>
+  <li>8k Kerbin clouds</li>
+  <li>Bioluminescent clouds for Laythe</li>
+  <li>7 8k cloud layers for Jool</li>
+  <li>Glow for all non-atmospheric bodies where relevant</li>
+  <li>8k auroras</li>
+  <li>Sandstorms and surface dust>
+  <li>Snow on Kerbin, Duna, and Laythe</li>
+  <li>Lightning on Eve, Kerbin, Duna, and Laythe</li>
+  <li>4k custom skybox by Astronomer</li>
+  <li>Optional compatiblity with KSPRC textures</li>
 </ul> 
 <h1>Dependencies</h1>
 
