@@ -1,8 +1,8 @@
-# AstronomersVisualPack
-<b>Astronomer's Visual Pack: Updated and Repackaged</b>
+# AstronomersVisualPack   
+<b>Astronomer's Visual Pack: Updated and Repackaged</b> <br>    
 Astronomer's Visual Pack: Updated and Repackaged is a port of the E.V.E. 7-4 visual mod "Astronomer's Visual Pack" to KSP 1.2 and beyond. It had started out as a simple updating and repackaging of the original Astronomer's Visual Pack: Interstellar v2 for Kerbal Space Program 1.2 using the E.V.E. 7-4 port KerbalVisualEnhancements in place of the former, before moving on to compatiblity with the latest E.V.E. updates by Waz. All artwork in this mod is courtesy of Astronomer, the original creator of Astronomer's Visual Pack.
 
-<b>How to Install</b> <
+<b>How to Install</b> <br>
 
 Simply extract the GameData from the .zip into your Kerbal Space Program installation, or install the mod using CKAN.
 
