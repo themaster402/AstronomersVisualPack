@@ -7,6 +7,11 @@ Astronomer's Visual Pack: Updated and Repackaged is a port of the E.V.E. 7-4 vis
 Simply extract the GameData from the .zip into your Kerbal Space Program installation, or install the mod using CKAN.
 
 <h1>Features</h1>
+<ul>
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ul> 
 <h1>Dependencies</h1>
 
 * [Kerbal Visual Enhancements](http://github.com/RangeMachine/KerbalVisualEnhancements/releases)
