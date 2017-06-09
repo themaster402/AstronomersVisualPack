@@ -14,7 +14,7 @@ KSPRC textures are installed by downloading the latest release of KSPRC, opening
   <li>7 8k cloud layers for Jool</li>
   <li>Glow for all non-atmospheric bodies where relevant</li>
   <li>8k auroras</li>
-  <li>Sandstorms and surface dust>
+  <li>Sandstorms and surface dust</li>
   <li>Snow on Kerbin, Duna, and Laythe</li>
   <li>Lightning on Eve, Kerbin, Duna, and Laythe</li>
   <li>4k custom skybox by Astronomer</li>
