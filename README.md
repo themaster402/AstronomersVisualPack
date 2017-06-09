@@ -19,6 +19,8 @@ KSPRC textures are installed by downloading the latest release of KSPRC, opening
   <li>Lightning on Eve, Kerbin, Duna, and Laythe</li>
   <li>4k custom skybox by Astronomer</li>
   <li>Optional compatiblity with KSPRC textures</li>
+  <li>High-res volumetric clouds</li>
+  <li>Compatiblity with most other cloud packs.</li>
 </ul> 
 <h1>Dependencies</h1>
 
