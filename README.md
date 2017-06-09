@@ -34,3 +34,5 @@ Thank you Eleusis La Arwall for the original cloud configurations for the Outer 
 
 * [Kopernicus](http://forum.kerbalspaceprogram.com/index.php?/topic/140580-130-kopernicus-release-1-may-27/)
 Thank you Thomas P. for allowing us to modify KSP's planets and create entirely new worlds.
+
+* [KSPRC](http://forum.kerbalspaceprogram.com/index.php?/topic/69702-112-ksprc-renaissance-compilation-artworks-remake-v-07-pre-release-3/) Thank you Proot for a legendary complete overhaul of the game's visuals, of which the trademark terrain and land feature textures are used in this mod.
