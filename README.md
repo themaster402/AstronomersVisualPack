@@ -4,7 +4,7 @@ Astronomer's Visual Pack: Updated and Repackaged is a port of the E.V.E. 7-4 vis
 
 <h1>How to Install</h1> <br>
 
-Simply extract the GameData from the .zip into your Kerbal Space Program installation, or install the mod using CKAN.
+Simply download a release and AVP_Textures, and extract the GameData from both the .zips into your Kerbal Space Program installation, or install the mod using CKAN.
 KSPRC textures are installed by downloading the latest release of KSPRC, opening the .zip, and extracting the folder "KSPRC" into your GameData. After, remove the "Atmosphere" and "CityLights" inside the KSPRC folder.
 
 <h1>Features</h1>
