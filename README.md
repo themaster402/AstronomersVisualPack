@@ -6,7 +6,7 @@ This is the "E" edition branch, meaning this version of AVP uses the E.V.E. 7-4 
 
 <h1>How to Install</h1> <br>
 
-Simply download a release and AVPE_Textures (not <i>AVP_Textures!</i>, and extract the GameData from both the .zips into your Kerbal Space Program installation. This branch cannot be installed through CKAN.
+Simply download a release and AVPE_Textures (not <i>AVP_Textures!)</i>, and extract the GameData from both the .zips into your Kerbal Space Program installation. This branch cannot be installed through CKAN.
 KSPRC textures are installed by downloading the latest release of KSPRC, opening the .zip, and extracting the folder "KSPRC" into your GameData. After, remove the "Atmosphere" and "CityLights" inside the KSPRC folder.
 
 <h1>Features</h1>
