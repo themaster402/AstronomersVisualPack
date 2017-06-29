@@ -1,0 +1,9 @@
+Astronomer's Visual Pack was a series of visual enhancements packs for alpha versions of Kerbal Space Program, the most recent of which was Interstellar v2. Following the release of 0.90.0, the removal of official 64-bit KSP and the developer of E.V.E. 7-4 going silent, the pack would fade out, as not even the best computers could cope with the boundaries pushed by the pack. Eventually, Release 1.1 came around, and the game was blessed with the return of 64-bit, the arrival of Unity 5 and many optimizations. At this point, E.V.E. had returned, the problem being that the new E.V.E. used a different file structure from E.V.E. 7-4. One day, a forum user by the name of "RangeMachine" had done something incredible. E.V.E. 7-4 was updated to be compatible with Kerbal Space Program 1.1, and eventually 1.2. Every other module in AVP remained compatible with the latest versions of mods, but this change had finally brought back the entirety of the mod for a new generation of Kerbal Space Program.
+
+This mod is compatible with the latest E.V.E., which allows mixing of new visual enhancements with AVP to your delight.
+
+The below license was stated by Astronomer, and allows me to create this repackaging.
+
+The licensor permits other to create and distribute derivative works, but only under the same or a compatible license.
+
+The licensor permits others to copy, distribute, display, and perform the work for non-commercial purposes only.

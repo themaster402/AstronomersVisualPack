@@ -1,0 +1,15 @@
+1. Right-click on KSP in your Steam library.
+
+2. Properties -> GENERAL -> SET LAUNCH OPTIONS...
+
+3. Type in the following: "path to KSP_x64.exe" %command%
+For example:
+"C:\Program Files (x86)\Steam\steamapps\common\Kerbal Space Program\KSP_x64.exe" %command%
+
+4. Run KSP as usual.
+
+5. Enjoy your 64-bit KSP!
+
+6. ??????
+
+7. PROFIT!!!!!!
