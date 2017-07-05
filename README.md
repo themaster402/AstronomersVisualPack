@@ -4,7 +4,7 @@ Astronomer's Visual Pack: Updated and Repackaged is a port of the E.V.E. 7-4 vis
 
 <h1>How to Install</h1> <br>
 
-Simply download a release and AVP_Textures, and extract the GameData from both the .zips into your Kerbal Space Program installation, or install the mod using CKAN.
+Simply download a release and AVP_Textures, and extract the GameData from both the .zips into your Kerbal Space Program installation, or install the mod using CKAN (soon).
 KSPRC textures are installed by downloading the latest release of KSPRC, opening the .zip, and extracting the folder "KSPRC" into your GameData. After, remove the "Atmosphere" and "CityLights" inside the KSPRC folder.
 
 <h1>Features</h1>
@@ -24,14 +24,11 @@ KSPRC textures are installed by downloading the latest release of KSPRC, opening
 </ul> 
 <h1>Dependencies</h1>
 
-* [Kerbal Visual Enhancements](http://github.com/RangeMachine/KerbalVisualEnhancements/releases)
-Thank you RangeMachine for bringing back E.V.E. 7-4.
-
 * [Environmental Visual Enhancements](http://forum.kerbalspaceprogram.com/index.php?/topic/149733-122-environmentalvisualenhancements-12-2/)
 Thank you rbray for the legendary visual enhancements mod, and thank you Waz for maintaining it.
 
-* [TextureReplacer](http://forum.kerbalspaceprogram.com/index.php?/topic/96851-11-texturereplacer-2413-442016/)
-Thank you shaw for allowing the community to replace the game's textures, and thank you RangeMachine for maintaining it.
+* [TextureReplacer](http://forum.kerbalspaceprogram.com/index.php?/topic/161898-13texturereplacerreplaced-v03/)
+Thank you shaw for allowing the community to replace the game's textures, and thank you RangeMachine for maintaining it, and finally thank you to HaArLiNsH for bringing it even further!
 
 * [Distant Object Enhancement](http://forum.kerbalspaceprogram.com/index.php?/topic/89214-12x-distant-object-enhancement-bis-v181-20-october-2016/)
 Thank you MOARdV for making planets actually visible in the dark void.
@@ -45,47 +42,8 @@ Thank you Athlonic for the enhanced audio experience, with chatters, ambient noi
 * [Scatterer](http://forum.kerbalspaceprogram.com/index.php?/topic/103963-wip122-scatterer-atmospheric-scattering-v00300-22012017/)
 Thank you blackrack for the atmospheric scattering, which alone enhances KSP's visuals greatly.
 
-* [OPMclouds](http://forum.kerbalspaceprogram.com/index.php?/topic/102589-cloud-configurations-for-outer-planets-mod-last-update-20150923/)
-Thank you Eleusis La Arwall for the original cloud configurations for the Outer Planets Mod.
-
 * [Kopernicus](http://forum.kerbalspaceprogram.com/index.php?/topic/140580-130-kopernicus-release-1-may-27/)
 Thank you Thomas P. for allowing us to modify KSP's planets and create entirely new worlds.
 
-* [KSPRC](http://forum.kerbalspaceprogram.com/index.php?/topic/69702-112-ksprc-renaissance-compilation-artworks-remake-v-07-pre-release-3/) Thank you Proot for a legendary complete overhaul of the game's visuals, of which the trademark terrain and land feature textures are used in this mod.
+* [KSPRC](http://forum.kerbalspaceprogram.com/index.php?/topic/69702-112-ksprc-renaissance-compilation-artworks-remake-v-07-pre-release-3/) Thank you Proot for a legendary complete overhaul of the game's visuals, of which the trademark terrain and land feature textures are used in this mod. 
 <br>
-<h1>Changelog</h1>
-<br>
-<b>v3.14 "Duality" - 2017-06-03</b>
-* Tweaks and fixes.
-<br>
-<b>v3.13 "Duality" - 2017-06-02</b>
-* Bioluminescent Laythe is back.
-* Added TextureReplacer 1.3 fix.
-* Updated Kopernicus.
-* Everything looks a whole lot better.
-<br>
-<b>v3.12 "Duality" - 2017-05-29</b>
-* Mandatory Compatibility Update (not really just making the game say it's compatible with 1.3)
-* Added white planet fix configuration (Thanks Galileo!)
-* Updated ModuleManager to 2.8.0
-* Made Duna's clouds more orange.
-* Moho glows now.
-* Eve has lost its clouds for now, I'm working on making them look as they did back in alpha.
-* Jool has been tweaked.
-<br>
-<b>v3.1 "Duality" - 2017-05-21</b>
-* New super cool lens flare!
-* Eve looks a bit better.
-* Laythe got more clouds!
-<br>
-<b>v3.0 "Duality" - 2017-05-20</b> 
-* Updated from KVE to latest EVE.
-* Added instructions to install KSPRC because all the cool kids are including them in their AVP repacks.
-* Added scatterer for high-quality atmospheric and oceanic scattering.
-* Updated all dependencies to their latest versions.
-* Added ModuleManager 2.7.6.
-* Removed OPM cloud configs, use OPM-VO or an E version of AVP.
-* Combined Interstellar v2 and Edge of Oblivion
-* Removed Interstellar music overhaul due to copyright issues and incompatibility.
-* Auroras are animated using UVNoise.
-* Duna clouds are animated using UVNoise.
