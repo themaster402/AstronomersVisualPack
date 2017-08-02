@@ -39,6 +39,9 @@ Thank you blackrack for the atmospheric scattering, which alone enhances KSP's v
 * [Kopernicus](http://forum.kerbalspaceprogram.com/index.php?/topic/140580-130-kopernicus-release-1-may-27/) (LGPL 3.0)
 Thank you Thomas P. for allowing us to modify KSP's planets and create entirely new worlds.
 
+* [ModuleManager](http://forum.kerbalspaceprogram.com/index.php?/topic/50533-130-module-manager-281-june-29th-2017-with-n-cats-physics/) (CC BY SA 4.0)
+Thank you Sarbian for driving the KSP modding community. 
+
 <h1>Optional Mods</h1>
 
 KSPRC (terrain textures only)
