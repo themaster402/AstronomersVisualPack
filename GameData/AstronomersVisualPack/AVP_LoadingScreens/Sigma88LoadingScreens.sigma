@@ -1,0 +1,25 @@
+{
+	"NAME": "<b><color=#9B59B6>Sigma LoadingScreens</color></b>",
+	"URL": "https://raw.githubusercontent.com/Sigma88/Sigma-LoadingScreens/master/LoadingScreens/Sigma88LoadingScreens.sigma",
+	"DOWNLOAD": "http://www.github.com/Sigma88/Sigma-LoadingScreens/releases/latest",
+	"CHANGE_LOG_URL": "https://raw.githubusercontent.com/Sigma88/Sigma-LoadingScreens/master/Changelog.txt",
+	"GITHUB":
+	{
+		"USERNAME": "Sigma88",
+		"REPOSITORY": "Sigma-LoadingScreens",
+		"ALLOW_PRE_RELEASE": false
+	},
+	"VERSION":
+	{
+		"MAJOR": 0,
+		"MINOR": 3,
+		"PATCH": 3,
+		"BUILD": 0
+	},
+	"KSP_VERSION":
+	{
+		"MAJOR": 1,
+		"MINOR": 3,
+		"PATCH": 1
+	}
+}
