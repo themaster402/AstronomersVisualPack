@@ -3,7 +3,7 @@
     "URL":"https://raw.githubusercontent.com/themaster402/AstronomersVisualPack/master/GameData/AstronomersVisualPack/AstronomersVisualPack.version",
     "DOWNLOAD":"https://github.com/themaster402/AstronomersVisualPack/releases",
     "CHANGE_LOG_URL":"https://forum.kerbalspaceprogram.com/index.php?/topic/160878-ksp-17-astronomers-visual-pack-v374-warpspeed",
-    "VERSION":{"MAJOR":4,"MINOR":1,"PATCH":2,"BUILD":0},
+    "VERSION":{"MAJOR":4,"MINOR":1,"PATCH":3,"BUILD":0},
     "KSP_VERSION":{"MAJOR":1,"MINOR":12,"PATCH":3},
     "KSP_VERSION_MIN":{"MAJOR":1,"MINOR":12,"PATCH":0},
     "KSP_VERSION_MAX":{"MAJOR":1,"MINOR":12,"PATCH":9}
